@@ -2,8 +2,6 @@ streamlit
 pandas
 matplotlib
 seaborn
+numpy
 scikit-learn
-numpy==1.26.4
-numba==0.58.1
-ydata-profiling==4.6.4
-streamlit-pandas-profiling
+ydata-profiling
