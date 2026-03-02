@@ -15,7 +15,7 @@ st.markdown("""
 <style>
     [data-testid="stAppViewContainer"] {background:#0f0f0f;}
     [data-testid="stSidebar"]          {background:#161616;}
-    h1,h2,h3,h4,h5,h6,p,label,div     {color:#f0f0f0!important;}
+    h1,h2,h3,h4,h5,h6,p,label     {color:#f0f0f0!important;}
     .metric-card {
         background:#1e1e1e;border-radius:12px;padding:18px 24px;
         border:1px solid #2a2a2a;margin-bottom:8px;
